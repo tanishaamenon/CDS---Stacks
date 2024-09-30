@@ -154,13 +154,13 @@ int main()
 **Outputs:**  <br>
 <br>
 a.<br>
-![exp19a output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14a.JPG) <br>
+![exp18a output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18a.JPG) <br>
 b.<br>
-![exp14b output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14b.JPG) <br>
+![exp18b output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18b.JPG) <br>
 c.<br>
-![exp14c output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14c.JPG) <br>
+![exp18c output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18c.JPG) <br>
 d.<br>
-![exp14d output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14d.JPG) <br>
+![exp18d output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18d.JPG) <br>
 
 
 
