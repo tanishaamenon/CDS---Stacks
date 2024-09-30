@@ -153,13 +153,10 @@ int main()
 
 **Outputs:**  <br>
 <br>
-a.<br>
+<br>
 ![exp18a output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18a.JPG) <br>
-b.<br>
 ![exp18b output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18b.JPG) <br>
-c.<br>
 ![exp18c output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18c.JPG) <br>
-d.<br>
 ![exp18d output](https://github.com/tanishaamenon/CDS---Stacks/blob/main/exp18d.JPG) <br>
 
 
